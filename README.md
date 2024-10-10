@@ -2,6 +2,11 @@
 
 - 📚 Bacharel em Engenharia de Software
 
+- Sou desenvolvedor apaixonado por criar soluções práticas e inovadoras para diversos setores. Com experiência em desenvolvimento web e mobile, utilizo tecnologias modernas como C#, JavaScript, React, e React Native para transformar ideias em realidade. 
+
+Confira meu portfólio para ver alguns dos meus projetos:
+[www.tnvteam.com.br](http://www.tnvteam.com.br)
+
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=julianojales20&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianojales20&layout=compact&theme=radical)
@@ -16,4 +21,4 @@
 
 
 ### Contate-me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-correa-alonso-5790081b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-correa-alonso-5790081b3/)
