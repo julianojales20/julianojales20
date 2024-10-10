@@ -4,7 +4,7 @@
 
 - Sou desenvolvedor apaixonado por criar soluções práticas e inovadoras para diversos setores. Com experiência em desenvolvimento web e mobile, utilizo tecnologias modernas como C#, JavaScript, React, e React Native para transformar ideias em realidade. 
 
-Confira meu portfólio para ver alguns dos meus projetos:
+Confira meu portfólio para ver alguns dos nossos projetos:
 [www.tnvteam.com.br](http://www.tnvteam.com.br)
 
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=julianojales20&show_icons=true&theme=radical)
