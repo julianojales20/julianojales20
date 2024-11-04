@@ -7,27 +7,27 @@
 Confira meu portfólio para ver alguns dos nossos projetos:
 [www.tnvteam.com.br](http://www.tnvteam.com.br)
 
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=julianojales20&show_icons=true&theme=radical)
+<!-- ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=julianojales20&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianojales20&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=julianojales20&layout=compact&theme=radical) -->
 
 <div>
   <img
     height="220rem"
     width="350rem"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phms02&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianojales20&theme=github_dark"
   />
 
   <img
     height="220rem"
     width="350rem"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=julianojales20&theme=github_dark"
   />
 
   <img
     height="220rem"
     width="350rem"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phms02&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianojales20&theme=github_dark"
   />
 </div>
 
