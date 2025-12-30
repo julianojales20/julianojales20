@@ -6,9 +6,9 @@
 
 Confira meu portfólio para ver alguns dos nossos projetos:
 
-<li>[www.tnvteam.com.br](http://www.tnvteam.com.br)</li>
-<li>[www.givplus.com.br](http://www.givplus.com.br)</li>
-<li>[www.lesoftware.com.br](http://www.lesoftware.com.br)</li>
+<li>http://www.tnvteam.com.br</li>
+<li>http://www.givplus.com.br</li>
+<li>http://www.lesoftware.com.br</li>
 
 <!-- ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=julianojales20&show_icons=true&theme=radical)
 
